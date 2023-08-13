@@ -1,4 +1,4 @@
-# Digit-Recognition-Using-SVM
+# Tangent
 The following is a project with the objective to classify digits from 0-9 using MNIST hand-written dataset.
 MNIST handdrwan dataset was used to compare techniques and get the best accuracy.
 The task was simple; to classify digits from 0-9.
