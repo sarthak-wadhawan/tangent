@@ -11,5 +11,8 @@ This project looks at other ways to do the same
 - Uses binary, grsyscale images
 
 ## Functionality
-It compares different cases: grayscale images, binary images (black and white), grayscale images with dimensionality reduction using PCA, and binary images with dimensionality reduction using PCA.
+It compares different cases: 
+- grayscale images, binary images (black and white)
+- grayscale images with dimensionality reduction using PCA
+- binary images with dimensionality reduction using PCA.
 The code measures accuracy, fitting time, and scoring time for each case to evaluate model performance
