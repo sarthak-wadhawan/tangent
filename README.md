@@ -8,7 +8,7 @@ This project looks at other ways to do the same.
 - Parameter Selection using GridSearchCV which utilizes Cross Validation
 - SVM
 - Dimensionality Reduction (PCA - Principal Component Analysis)
-- Uses binary, grsyscale images
+- Uses binary, grayscale images
 
 ## Functionality
 It compares different cases: 
