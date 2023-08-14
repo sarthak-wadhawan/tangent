@@ -12,7 +12,8 @@ This project looks at other ways to do the same.
 
 ## Functionality
 It compares different cases: 
-- grayscale images, binary images (black and white)
+- grayscale images
+- binary images (black and white)
 - grayscale images with dimensionality reduction using PCA
 - binary images with dimensionality reduction using PCA.
 
